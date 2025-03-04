@@ -3,8 +3,6 @@
 
 **About me**
 
-- 💼 DevOps/BackEnd Developer at [SORBA.ai](https://www.sorba.ai/)
-
 - ❤️ I love docker and kubernetes, automate workflows and write code
 
 
