@@ -4,26 +4,3 @@
 **About me**
 
 - ❤️ I love docker and kubernetes, automate workflows and write code
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmesad&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="dmesad's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmesad&layout=compact&theme=vue&hide_border=true" /> |
-| ------------- | ------------- |
-
-<h3 align="left">Top repositories:</h3>
-
-<a href="https://github.com/dmesad/dmesad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmesad&repo=dmesad&theme=vue" />
-</a>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<p align="right">
-<a href="https://linkedin.com/in/daniel-mesa">
-  <img align="right" alt="Daniel Mesa | LinkedIn" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-</a>
-<a href="https://stackoverflow.com/users/12303322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12303322" height="30" width="40" /></a>
-</p>
