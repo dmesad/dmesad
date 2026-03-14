@@ -14,7 +14,7 @@ Networking • Distributed systems • Infrastructure automation • Kubernetes 
 
 Go • TypeScript • Node.js • WireGuard • NGINX • Docker • Kubernetes
 
-#### Support
+### Support
 
 - https://github.com/sponsors/dmesad
 - https://buymeacoffee.com/dmesad
