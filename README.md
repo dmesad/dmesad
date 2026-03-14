@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm Daniel Mesa</h1>
-<h3 align="center">Engineer passionate about automation, with over 9 years of experience as a Full Stack Developer</h3>
+<h3 align="center">Building infrastructure tools for self-hosted and private networks.</h3>
 
-- ❤️ I’m passionate about Docker, Kubernetes, automating workflows, and writing clean, scalable code.
-- 🚀 Creator of [Wiredoor](https://github.com/wiredoor/wiredoor): an ingress-as-a-service platform powered by WireGuard and NGINX.
-- 🛠️ I work primarily with TypeScript, Go, PHP, Kubernetes, and Docker.
-- 📦 Always looking for ways to simplify infrastructure without compromising on security.
+### Building 
 
-Like what I do?
+[Wiredoor](https://www.wiredoor.net)
 
-- [Buy me a coffe](https://buymeacoffee.com/dmesad)
-- [Become sponsor](https://github.com/sponsors/dmesad)
+Open source platform that securely exposes private services using reverse WireGuard tunnels.
+
+### Interested in
+
+Networking • Distributed systems • Infrastructure automation • Kubernetes • Secure remote access
+
+### Tech
+
+Go • TypeScript • Node.js • WireGuard • NGINX • Docker • Kubernetes
+
+#### Support
+
+- https://github.com/sponsors/dmesad
+- https://buymeacoffee.com/dmesad
